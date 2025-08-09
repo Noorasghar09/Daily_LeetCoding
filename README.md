@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -37,10 +39,12 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
