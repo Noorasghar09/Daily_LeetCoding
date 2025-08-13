@@ -9,6 +9,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0594-longest-harmonious-subsequence) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -21,6 +22,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0594-longest-harmonious-subsequence) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -56,6 +58,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0594-longest-harmonious-subsequence) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3019-furthest-point-from-origin](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3019-furthest-point-from-origin) |
