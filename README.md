@@ -12,6 +12,7 @@
 | [1848-sum-of-unique-elements](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2331-intersection-of-multiple-arrays) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -26,6 +27,7 @@
 | [1848-sum-of-unique-elements](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2331-intersection-of-multiple-arrays) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -53,6 +55,7 @@
 | [0229-majority-element-ii](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0594-longest-harmonious-subsequence) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2331-intersection-of-multiple-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -64,6 +67,7 @@
 | [1848-sum-of-unique-elements](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2331-intersection-of-multiple-arrays) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3019-furthest-point-from-origin](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3242-count-elements-with-maximum-frequency) |
