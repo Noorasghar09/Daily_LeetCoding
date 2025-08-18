@@ -6,27 +6,14 @@ public:
             map[it]++;
         }
         for(auto it:map){
-            if(isPrime(it.second)){
+            if(it.second ==2 || it.second ==3 || it.second ==5 || it.second ==7){
                 return true;
             }
-        }
-        return false;
-    }
-    bool isPrime(int num){
-        if(num<=1){
-            return false;
-        }
-        else if(num<=3){
+            if(it.second ==1 || it.second%2 ==0 || it.second%3 ==0 || it.second%5 ==0 || it.second%7 ==0){
+                continue;
+            }
             return true;
         }
-        else if(num%2 == 0 || num%3==0){
-            return false;
-        }
-        for(int i=5; i<= sqrt(num); i+=6){
-            if(num %i==0 || num % (i+2) ==0){
-                return false;
-            }
-        }
-        return true;
+        return false;
     }
 };
