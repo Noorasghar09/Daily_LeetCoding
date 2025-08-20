@@ -11,6 +11,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2331-intersection-of-multiple-arrays) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -29,6 +30,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2331-intersection-of-multiple-arrays) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -43,6 +45,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0451-sort-characters-by-frequency) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2427-first-letter-to-appear-twice](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -74,6 +77,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2331-intersection-of-multiple-arrays) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
