@@ -32,6 +32,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -49,6 +50,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0692-top-k-frequent-words) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2427-first-letter-to-appear-twice](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2427-first-letter-to-appear-twice) |
@@ -83,6 +85,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2190-count-common-words-with-one-occurrence) |
