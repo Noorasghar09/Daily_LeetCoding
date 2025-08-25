@@ -17,6 +17,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2331-intersection-of-multiple-arrays) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2486-most-frequent-even-element](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -41,6 +42,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -94,6 +96,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3019-furthest-point-from-origin](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3019-furthest-point-from-origin) |
