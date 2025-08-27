@@ -11,6 +11,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1848-sum-of-unique-elements](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Number Theory
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1693-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
