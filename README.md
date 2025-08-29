@@ -59,6 +59,7 @@
 | [0692-top-k-frequent-words](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0692-top-k-frequent-words) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -94,6 +95,7 @@
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
