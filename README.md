@@ -25,6 +25,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3324-split-the-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3324-split-the-array) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3324-split-the-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3324-split-the-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -115,6 +117,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3019-furthest-point-from-origin](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3324-split-the-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3324-split-the-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3914-check-if-any-element-has-prime-frequency) |
