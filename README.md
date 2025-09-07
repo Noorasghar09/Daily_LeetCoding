@@ -28,6 +28,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3324-split-the-array) |
 | [3707-find-the-most-common-response](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3707-find-the-most-common-response) |
+| [3778-transform-array-by-parity](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3778-transform-array-by-parity) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0692-top-k-frequent-words) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2331-intersection-of-multiple-arrays) |
+| [3778-transform-array-by-parity](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
 |  |
@@ -138,6 +140,7 @@
 | [3324-split-the-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3324-split-the-array) |
 | [3707-find-the-most-common-response](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3778-transform-array-by-parity](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3914-check-if-any-element-has-prime-frequency) |
