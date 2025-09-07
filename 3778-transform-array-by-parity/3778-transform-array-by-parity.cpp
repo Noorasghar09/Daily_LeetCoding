@@ -1,23 +1,16 @@
 class Solution {
 public:
     vector<int> transformArray(vector<int>& nums) {
-        int even=0;
-        int odd=0;
+        vector<int> vec;
         for(int i=0; i<nums.size(); i++){
             if(nums[i]%2 == 0){
-                even++;
+                vec.push_back(0);
             }
             else{
-                odd++;
+                vec.push_back(1);
             }
         }
-        vector<int> vec;
-        for(int i=0; i<even; i++){
-            vec.push_back(0);
-        }
-        for(int j=0; j<odd; j++){
-            vec.push_back(1);
-        }
+        sort(vec.begin(), vec.end());
         return vec;
     }
 };
