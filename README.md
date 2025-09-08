@@ -21,6 +21,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2331-intersection-of-multiple-arrays) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2378-sender-with-largest-word-count](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2486-most-frequent-even-element](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -55,6 +56,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2378-sender-with-largest-word-count](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2486-most-frequent-even-element) |
@@ -80,6 +82,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2378-sender-with-largest-word-count](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2378-sender-with-largest-word-count) |
 | [2427-first-letter-to-appear-twice](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3019-furthest-point-from-origin](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3019-furthest-point-from-origin) |
@@ -130,6 +133,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2378-sender-with-largest-word-count](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2486-most-frequent-even-element) |
