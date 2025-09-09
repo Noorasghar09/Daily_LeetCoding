@@ -18,6 +18,7 @@
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2195-time-needed-to-buy-tickets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2331-intersection-of-multiple-arrays) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -193,4 +194,12 @@
 |  |
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1693-sum-of-all-odd-length-subarrays) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2195-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
