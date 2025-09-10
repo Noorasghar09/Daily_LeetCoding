@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0692-top-k-frequent-words) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -98,6 +99,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
 |  |
@@ -157,6 +159,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
@@ -197,9 +200,14 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0239-sliding-window-maximum) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2195-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2195-time-needed-to-buy-tickets) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
