@@ -74,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0692-top-k-frequent-words) |
 | [1297-maximum-number-of-balloons](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1297-maximum-number-of-balloons) |
@@ -97,6 +98,7 @@
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0402-remove-k-digits) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
@@ -158,6 +160,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0621-task-scheduler) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -216,4 +219,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0239-sliding-window-maximum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
