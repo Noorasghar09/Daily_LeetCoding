@@ -14,6 +14,7 @@
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1755-defuse-the-bomb](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0594-longest-harmonious-subsequence) |
+| [1755-defuse-the-bomb](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1755-defuse-the-bomb) |
 ## Sorting
 |  |
 | ------- |
