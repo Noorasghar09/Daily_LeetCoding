@@ -10,6 +10,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0692-top-k-frequent-words) |
+| [0852-friends-of-appropriate-ages](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0852-friends-of-appropriate-ages) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -115,6 +116,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0692-top-k-frequent-words) |
+| [0852-friends-of-appropriate-ages](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0852-friends-of-appropriate-ages) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2331-intersection-of-multiple-arrays) |
 | [3778-transform-array-by-parity](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -203,6 +205,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0852-friends-of-appropriate-ages](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0852-friends-of-appropriate-ages) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
@@ -225,4 +228,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0402-remove-k-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0852-friends-of-appropriate-ages](https://github.com/Noorasghar09/Daily_LeetCoding/tree/master/0852-friends-of-appropriate-ages) |
 <!---LeetCode Topics End-->
